@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 50%;
+ }
+ .img2 {
+    position: absolute;
+      top: 170px;
+      margin-left: 37em;
+     left: 60px;
+     border-radius: 50%;
+ }
+ .centered {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+h3{
+    text-align: center;
+}
+
+ 
